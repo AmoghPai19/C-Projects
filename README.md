@@ -1,6 +1,6 @@
-#Student Management System
+# Student Management System
 
-##Description
+## Description
 
 This is a C program that allows users to manage and analyze student data for a classroom. The program provides functionalities to:
 ## Table of Contents
