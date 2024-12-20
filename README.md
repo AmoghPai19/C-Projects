@@ -14,22 +14,18 @@ This is a C program that allows users to manage and analyze student data for a c
 ## Features
 
 1. Enter Student Details
-
-Input the name, student ID, division, and marks for multiple students.
-
-The data is stored dynamically using a structure and dynamic memory allocation.
+  Input the name, student ID, division, and marks for multiple students.
+  The data is stored dynamically using a structure and dynamic memory allocation.
 
 2. Calculate Class Average
 
-Calculate the average marks for students belonging to a specified division.
-
-Displays the computed class average for that division.
+  Calculate the average marks for students belonging to a specified division.
+  Displays the computed class average for that division.
 
 3. Display Report Card
 
-Retrieve and display the details of a student by entering their Student ID.
-
-Includes name, ID, division, and marks.
+  Retrieve and display the details of a student by entering their Student ID.
+  Includes name, ID, division, and marks.
 
 ## Notes
 
