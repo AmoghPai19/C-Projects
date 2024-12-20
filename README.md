@@ -1,16 +1,16 @@
-Student Management System
+#Student Management System
 
-Description
+##Description
 
 This is a C program that allows users to manage and analyze student data for a classroom. The program provides functionalities to:
+## Table of Contents
+1.Enter student details.
 
-Enter student details.
+2.Calculate the class average for a specific division.
 
-Calculate the class average for a specific division.
+2.Display the report card of a student based on their Student ID.
 
-Display the report card of a student based on their Student ID.
-
-Features
+##Features
 
 1. Enter Student Details
 
